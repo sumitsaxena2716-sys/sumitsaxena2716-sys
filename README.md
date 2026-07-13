@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumit Saxena
+# Sumit Saxena
 
-### 🎯 Aspiring Cloud Security Engineer | AWS Certified
+### Aspiring Cloud Security Engineer &nbsp;|&nbsp; AWS Certified &nbsp;|&nbsp; SOC Analyst (Entry-Level)
 
-*Cloud & Security-focused Computer Applications student, building secure and scalable systems*
+*Cloud & Security-focused Computer Applications (AI & Data Science) student, building secure and scalable systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-saxena-54566b310)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitsaxena2716@gmail.com)
@@ -12,26 +12,31 @@
 
 </div>
 
----
+<br>
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently building hands-on skills in **AWS Cloud Security, IAM, and Python automation**
+- 🔭 Building hands-on skills in **AWS Cloud Security, IAM, and Python automation**
 - 🌱 Currently learning **Cloud Security best practices, AWS Cloud, and Flask**
 - 💬 Ask me about **Python, AWS, MySQL, Git/GitHub, and AI/ML projects**
 - 🎓 BCA (AI & Data Science) @ Graphic Era Hill University
 - ⚡ Goal: becoming a Cloud Security Expert, building secure & scalable cloud solutions
+- 📌 Open to **Cloud Security Engineer, SOC Analyst, and Cloud Support** roles
 
----
+<br>
 
-### 🏅 Certifications
-![AWS](https://img.shields.io/badge/AWS_CLI_Basics-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_ML_Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+## 🏅 Certifications
 
----
+| Certification | Issuer |
+|---|---|
+| AWS Command Line Interface (CLI) Basics | AWS Training & Certification |
+| AWS CodePipeline: Getting Started | AWS Training & Certification |
+| Fundamentals of Machine Learning & AI | AWS Training & Certification |
+| CS107: C++ Programming | Saylor Academy |
 
-### 💻 Tech Stack
+<br>
+
+## 💻 Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -46,30 +51,36 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📌 Featured Projects & Code Quality
+## 📌 Featured Projects
 
-**Smart Attendance System (QR Code)** — Python, HTML/CSS, SQL
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Smart Attendance System (QR Code)](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)**
+Python · HTML/CSS · SQL
+
+QR-based check-in system with unique code generation and validation logic, preventing proxy attendance.
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sumitsaxena2716-sys_QR-Code-Attendance-System&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sumitsaxena2716-sys_QR-Code-Attendance-System)
 
-**Student Performance Prediction (ML)** — Python, Pandas, Scikit-learn
+</td>
+<td width="50%" valign="top">
+
+**[Student Performance Prediction (ML)](https://github.com/sumitsaxena2716-sys/Edupredict-AI)**
+Python · Pandas · Scikit-learn
+
+Supervised ML model to classify at-risk students, with feature engineering and classification metrics.
+
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sumitsaxena2716-sys_Edupredict-AI&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sumitsaxena2716-sys_Edupredict-AI)
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=sumitsaxena2716-sys&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sumitsaxena2716-sys&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=sumitsaxena2716-sys&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<br>
 
 <div align="center">
 
