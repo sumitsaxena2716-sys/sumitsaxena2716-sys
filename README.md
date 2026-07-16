@@ -51,51 +51,109 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 **Languages**
 
+
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 **Cloud & Infrastructure**
 
+
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 
 **Database**
 
+
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 **Frameworks & Libraries**
 
+
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+
+
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+
+
+
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+
 
 **Tools**
 
+
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+
+
+
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 [Smart Attendance System using Face Recognition](https://github.com/sumitsaxena2716-sys/REPO-LINK-HERE)
+### 📌 [Smart Attendance System using Face Recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)
 AI-powered attendance system that uses real-time face detection to eliminate manual roll calls and reduce proxy attendance.
 **Tech:** Python • OpenCV • Flask • MySQL
 
-### 📌 [Student Performance Prediction System](https://github.com/sumitsaxena2716-sys/REPO-LINK-HERE)
+### 📌 [EduPredict AI — Student Performance Prediction System](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
 ML model that predicts academic performance from historical student data, helping identify at-risk students early.
 **Tech:** Python • Pandas • Scikit-learn • Flask
 
-### 📌 [QR Code Attendance System](https://github.com/sumitsaxena2716-sys/REPO-LINK-HERE)
+### 📌 [QR Code Attendance System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)
 Secure QR-based attendance system with built-in validation logic to prevent proxy check-ins.
 **Tech:** Python • Flask • MySQL
-
-> 💡 *Replace `REPO-LINK-HERE` with your actual repo URLs so recruiters can click straight through to the code.*
 
 ---
 
