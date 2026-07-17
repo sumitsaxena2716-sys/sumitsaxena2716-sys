@@ -22,7 +22,7 @@
 - 🔭 Building hands-on skills in **AWS Cloud, Cloud Security, and Python**
 - 🌱 Currently deepening knowledge in **IAM, EC2, S3, Flask, and Networking Fundamentals**
 - 🎯 Focused on **Cloud Security, SOC Operations, and Secure Application Development**
-- 💬 Ask me about **Python, Git/GitHub, MySQL, Flask, or AWS Fundamentals**
+- 💬 Ask me about **Python, SQL, DBMS, Git/GitHub, MySQL, Flask, or AWS Fundamentals**
 - 🧭 Career Path: **Cloud Security Engineer → Cloud Security Architect**
 - 🛠️ I learn best by building — every project below started as a lab or a "let me try this"
 
@@ -58,6 +58,8 @@
 
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=flat-square&logo=databricks&logoColor=white)
 
 **Frameworks & Libraries**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -92,12 +94,12 @@ Secure QR-based attendance system with automated Excel reporting, teacher approv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxena2716-sys&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxena2716-sys&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" />
 </p>
 
 ---
