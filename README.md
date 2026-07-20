@@ -137,17 +137,25 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 ### 🚀 Featured Projects
 
-📌 **[QR Code Attendance System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)**
-Secure QR-based attendance system with automated Excel reporting, teacher approval override, and attendance dashboard analytics.
-`Python` `Flask` `MySQL`
+📌 **[Smart Attendance System using Face Recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)**
+AI-powered attendance system using real-time face detection to eliminate manual roll calls and reduce proxy attendance.
+`Python` `OpenCV` `Flask`
 
 📌 **[EduPredict AI — Student Performance Prediction System](https://github.com/sumitsaxena2716-sys/Edupredict-AI)**
 ML model that predicts academic performance from historical student data, helping identify at-risk students early.
 `Python` `Pandas` `Scikit-learn` `Flask`
 
-📌 **Smart Attendance System using Face Recognition** *(link update pending)*
-AI-powered attendance system using real-time face detection to eliminate manual roll calls and reduce proxy attendance.
-`Python` `OpenCV` `Flask` `MySQL`
+📌 **[QR Code Attendance System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)**
+Secure QR-based attendance system with automated Excel reporting, teacher approval override, and attendance dashboard analytics.
+`Python` `Flask` `MySQL`
+
+📌 **[Library Management System](https://github.com/sumitsaxena2716-sys/Library-Management-System)**
+A system to manage book records, issue/return tracking, and library operations efficiently.
+`Python` `MySQL`
+
+📌 **[Music Playlist Manager (Singly Linked List)](https://github.com/sumitsaxena2716-sys/Music-PlayList-Manager-By-Singly-Linked-List)**
+A playlist manager built using core data structures to demonstrate singly linked list operations.
+`Python` `Data Structures`
 
 ---
 
