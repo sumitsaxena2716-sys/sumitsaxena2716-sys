@@ -6,15 +6,10 @@ I am a BCA (Artificial Intelligence & Data Science) student passionate about Clo
 
 I enjoy building real-world applications, exploring AWS services, and learning how secure cloud infrastructure is designed. My goal is to become a Cloud Security Engineer and eventually a Cloud Security Architect.
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/sumit-saxena-54566b310) [
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:sumitsaxena2716@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/sumit-saxena-54566b310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sumitsaxena2716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
