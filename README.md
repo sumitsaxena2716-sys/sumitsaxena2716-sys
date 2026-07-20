@@ -1,8 +1,10 @@
 # Hi 👋, I'm Sumit Saxena
 
-### Cloud Security Enthusiast | Python Developer | BCA (AI & Data Science)
+### Cloud Security | AWS | Python | Flask | AI & Data Science | Open Source Learner
 
-I build secure, scalable solutions at the intersection of **Cloud Computing** and **Python-driven applications** — currently sharpening my edge in AWS and cloud security fundamentals.
+I am a BCA (Artificial Intelligence & Data Science) student passionate about Cloud Computing, AWS, Cloud Security, and Python Development.
+
+I enjoy building real-world applications, exploring AWS services, and learning how secure cloud infrastructure is designed. My goal is to become a Cloud Security Engineer and eventually a Cloud Security Architect.
 
 [
 
@@ -10,7 +12,7 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 ](https://www.linkedin.com/in/sumit-saxena-54566b310) [
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:sumitsaxena2716@gmail.com)
 
@@ -18,12 +20,13 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 ### 🚀 About Me
 
-- 🔭 Building hands-on skills in **AWS Cloud, Cloud Security, and Python**
-- 🌱 Currently deepening knowledge in **IAM, EC2, S3, Flask, and Networking Fundamentals**
-- 🎯 Focused on **Cloud Security, SOC Operations, and Secure Application Development**
-- 💬 Ask me about **Python, SQL, DBMS, Git/GitHub, MySQL, Flask, or AWS Fundamentals**
-- 🧭 Career Path: **Cloud Security Engineer → Cloud Security Architect**
-- 🛠️ I learn best by building — every project below started as a lab or a "let me try this"
+- 🎓 BCA (AI & Data Science) Student
+- ☁️ Learning AWS Cloud & Cloud Security
+- 🔐 Interested in Secure Cloud Infrastructure
+- 🐍 Python Developer with hands-on academic projects
+- 🌱 Currently learning IAM, EC2, S3, VPC, Networking & Flask
+- 💡 I learn by building real-world projects
+- 🎯 Career Goal: Cloud Security Engineer → Cloud Security Architect
 
 ---
 
@@ -70,7 +73,7 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 
 
-**Cloud & Infrastructure**
+**Cloud**
 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -85,7 +88,7 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 
 
@@ -112,7 +115,7 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 
 
@@ -129,61 +132,118 @@ I build secure, scalable solutions at the intersection of **Cloud Computing** an
 
 
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+
+**Currently Learning**
+`AWS IAM` `Amazon EC2` `Amazon S3` `Amazon VPC` `Cloud Networking` `Linux Fundamentals` `Flask` `Cloud Security Fundamentals`
 
 ---
 
 ### 🚀 Featured Projects
 
 📌 **[Smart Attendance System using Face Recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)**
-AI-powered attendance system using real-time face detection to eliminate manual roll calls and reduce proxy attendance.
-`Python` `OpenCV` `Flask`
+AI-powered attendance system using real-time face recognition.
+- Face Recognition Attendance
+- Automatic Attendance Logging
+- Flask Dashboard
+- Excel Report Generation
+- Proxy Attendance Prevention
 
-📌 **[EduPredict AI — Student Performance Prediction System](https://github.com/sumitsaxena2716-sys/Edupredict-AI)**
-ML model that predicts academic performance from historical student data, helping identify at-risk students early.
+`Python` `OpenCV` `Flask` `Pandas`
+
+---
+
+📌 **[EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)**
+Machine Learning project for predicting student academic performance.
+- Student Performance Prediction
+- Data Visualization
+- Performance Analytics
+- Recommendation System
+
 `Python` `Pandas` `Scikit-learn` `Flask`
 
+---
+
 📌 **[QR Code Attendance System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)**
-Secure QR-based attendance system with automated Excel reporting, teacher approval override, and attendance dashboard analytics.
+QR-based attendance management system.
+- QR Code Attendance
+- Attendance Dashboard
+- Teacher Authentication
+- Excel Reports
+
 `Python` `Flask` `MySQL`
 
+---
+
 📌 **[Library Management System](https://github.com/sumitsaxena2716-sys/Library-Management-System)**
-A system to manage book records, issue/return tracking, and library operations efficiently.
+Library record management system.
+- Book Management
+- Issue & Return
+- Student Records
+- Search System
+
 `Python` `MySQL`
 
-📌 **[Music Playlist Manager (Singly Linked List)](https://github.com/sumitsaxena2716-sys/Music-PlayList-Manager-By-Singly-Linked-List)**
-A playlist manager built using core data structures to demonstrate singly linked list operations.
+---
+
+📌 **[Music Playlist Manager](https://github.com/sumitsaxena2716-sys/Music-PlayList-Manager-By-Singly-Linked-List)**
+Playlist management using Singly Linked List.
+- Add Songs
+- Delete Songs
+- Traverse Playlist
+- Data Structure Implementation
+
 `Python` `Data Structures`
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxena2716-sys&theme=github-dark-blue&hide_border=true&background=0d1117)
+![](https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=github_dark&hide_border=true)
 
 
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxena2716-sys&theme=github-dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
+
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=github_dark)
+
+
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=github-compact)
 
 
 
 ---
 
-### 🎯 Current Focus
+### 🎯 2026 Goals
 
-`Cloud Computing` `AWS Fundamentals` `Cloud Security` `Python Development` `AI & Machine Learning` `Open Source Learning`
+- 🎯 Master AWS Fundamentals
+- 🎯 Earn AWS Solutions Architect – Associate Certification
+- 🎯 Build Production-Level AWS Projects
+- 🎯 Learn Docker & Terraform
+- 🎯 Contribute to Open Source
+- 🎯 Secure an Internship / Cloud Role
+
+---
+
+### 📚 Current Focus
+
+`AWS` `Cloud Security` `Python` `Flask` `Linux` `Networking` `AI & Machine Learning`
+
+---
 
 *"Learning. Building. Securing the Cloud."*
 
-⭐ Thanks for stopping by — feel free to connect! Let's build something great together. 🚀 
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build amazing things together.
