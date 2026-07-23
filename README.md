@@ -9,7 +9,7 @@ Cloud Security • AWS • Python • Flask • AI & Data Science
 </h3>
 
 <p align="center">
-I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate about <b>Cloud Computing, AWS, Cloud Security, and Python Development</b>. I enjoy solving real-world problems through Cloud and Python projects and aspire to become a <b>Cloud Security Engineer</b>, building secure and scalable cloud solutions.
+I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate about <b>Cloud Computing, AWS, Cloud Security, and Python Development</b>. I enjoy solving real-world problems through Cloud and Python projects and aspire to become a <b>Cloud Security Engineer</b>.
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux" />
 </p>
 
 ---
@@ -59,9 +59,9 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 
 ## 🌟 Smart Attendance System using Face Recognition
 
-AI-powered attendance management system that automates attendance using Face Recognition.
+AI-powered attendance system that automates attendance using Face Recognition.
 
-### ✨ Features
+### Features
 
 - ✅ Face Recognition
 - ✅ Attendance Dashboard
@@ -73,9 +73,8 @@ AI-powered attendance management system that automates attendance using Face Rec
 
 `Python` `Flask` `OpenCV` `Pandas`
 
-**Status:** 🚧 Continuously Improving
+🔗 Repository
 
-🔗 **Repository:**  
 https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition
 
 ---
@@ -84,7 +83,7 @@ https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition
 
 Machine Learning application for predicting student academic performance.
 
-### ✨ Features
+### Features
 
 - ✅ Student Performance Prediction
 - ✅ Data Analysis
@@ -96,9 +95,8 @@ Machine Learning application for predicting student academic performance.
 
 `Python` `Pandas` `Scikit-learn` `Flask`
 
-**Status:** 🚧 Continuously Improving
+🔗 Repository
 
-🔗 **Repository:**  
 https://github.com/sumitsaxena2716-sys/Edupredict-AI
 
 ---
@@ -107,25 +105,23 @@ https://github.com/sumitsaxena2716-sys/Edupredict-AI
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=merko&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=merko&hide_border=true"/>
 
 </p>
 
-<br>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=merko&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -134,7 +130,7 @@ https://github.com/sumitsaxena2716-sys/Edupredict-AI
 - ☁️ AWS Cloud
 - 🔐 Cloud Security
 - 🐍 Python Development
-- ⚙️ Flask Applications
+- ⚙️ Flask
 - 🐧 Linux
 - 🌐 Networking
 - 🤖 AI & Machine Learning
@@ -176,4 +172,3 @@ https://github.com/sumitsaxena2716-sys/Edupredict-AI
 Let's connect and build secure cloud solutions together. 🚀
 
 </p>
-```
