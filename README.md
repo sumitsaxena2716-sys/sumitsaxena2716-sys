@@ -1,244 +1,190 @@
-# Hi 👋, I'm Sumit Saxena
+```markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sumit+Saxena;Cloud+Security+Engineer+in+Progress;AWS+%7C+Python+Developer;Building+Secure+Cloud+Solutions" />
+</p>
 
-### Cloud Security | AWS | Python | Flask | AI & Data Science | Open Source Learner
+<h1 align="center">Hi 👋, I'm Sumit Saxena</h1>
 
-I am a BCA (Artificial Intelligence & Data Science) student passionate about Cloud Computing, AWS, Cloud Security, and Python Development.
+<h3 align="center">
+Cloud Security • AWS • Python • Flask • AI & Data Science
+</h3>
 
-I enjoy building real-world applications, exploring AWS services, and learning how secure cloud infrastructure is designed. My goal is to become a Cloud Security Engineer and eventually a Cloud Security Architect.
+<p align="center">
+I am a <b>BCA (AI & Data Science)</b> student passionate about building secure cloud solutions using <b>AWS</b> and <b>Python</b>. I enjoy creating practical projects, exploring cloud technologies, and continuously improving my skills to become a <b>Cloud Security Engineer</b>.
+</p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sumit-saxena-54566b310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sumitsaxena2716@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumit-saxena-54566b310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sumitsaxena2716@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🎓 BCA (AI & Data Science) Student
+- 🎓 BCA (Artificial Intelligence & Data Science)
 - ☁️ Learning AWS Cloud & Cloud Security
 - 🔐 Interested in Secure Cloud Infrastructure
-- 🐍 Python Developer with hands-on academic projects
-- 🌱 Currently learning IAM, EC2, S3, VPC, Networking & Flask
-- 💡 I learn by building real-world projects
-- 🎯 Career Goal: Cloud Security Engineer → Cloud Security Architect
+- 🐍 Python Developer
+- 🌱 Currently learning IAM, EC2, S3, VPC & Networking
+- 💡 Passionate about building real-world applications
+- 🎯 Goal: **Cloud Security Engineer → Cloud Security Architect**
 
 ---
 
-### 🏅 Certifications
+# 🏅 Certifications
 
-| Certification                           | Provider       |
-| ---------------------------------------- | -------------- |
-| AWS Technical Essentials                 | AWS            |
-| AWS Command Line Interface (CLI) Basics  | AWS            |
-| AWS CodePipeline: Getting Started        | AWS            |
-| Fundamentals of Machine Learning & AI    | Great Learning |
-| CS107: C++ Programming                   | Saylor Academy |
-| Ethics Review of Health Research         | NPTEL          |
-| ICMR Certified                           | ICMR           |
+| Certification | Provider |
+|---------------|----------|
+| AWS Technical Essentials | AWS |
+| AWS Command Line Interface (CLI) Basics | AWS |
+| AWS CodePipeline: Getting Started | AWS |
+| Fundamentals of Machine Learning & AI | Great Learning |
+| CS107: C++ Programming | Saylor Academy |
+| Ethics Review of Health Research | NPTEL |
+| ICMR Certified | ICMR |
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
-**Languages**
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux&perline=6"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</p>
 
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=opencv&perline=6"/>
 
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
-
-**Cloud**
-
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-
-
-**Database**
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-
-
-**Frameworks & Libraries**
-
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-
-
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-
-
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-
-
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-
-
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-
-
-**Tools**
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-
-**Currently Learning**
-`AWS IAM` `Amazon EC2` `Amazon S3` `Amazon VPC` `Cloud Networking` `Linux Fundamentals` `Flask` `Cloud Security Fundamentals`
+</p>
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-📌 **[Smart Attendance System using Face Recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)**
-AI-powered attendance system using real-time face recognition.
+## 🌟 Smart Attendance System using Face Recognition
+
+AI-powered attendance management system that automates attendance using real-time face recognition.
+
+### ✨ Features
+
 - Face Recognition Attendance
-- Automatic Attendance Logging
 - Flask Dashboard
-- Excel Report Generation
+- Attendance Analytics
+- Automatic Excel Reports
+- Secure Authentication
 - Proxy Attendance Prevention
 
-`Python` `OpenCV` `Flask` `Pandas`
+**Tech Stack**
+
+`Python` `Flask` `OpenCV` `Pandas`
+
+🔗 Repository
+
+https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition
 
 ---
 
-📌 **[EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)**
-Machine Learning project for predicting student academic performance.
+## 🌟 EduPredict AI
+
+Machine Learning project that predicts student academic performance and helps identify students needing support.
+
+### ✨ Features
+
 - Student Performance Prediction
-- Data Visualization
-- Performance Analytics
+- Data Analysis
+- Performance Dashboard
 - Recommendation System
+- Visualization
+
+**Tech Stack**
 
 `Python` `Pandas` `Scikit-learn` `Flask`
 
----
+🔗 Repository
 
-📌 **[QR Code Attendance System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)**
-QR-based attendance management system.
-- QR Code Attendance
-- Attendance Dashboard
-- Teacher Authentication
-- Excel Reports
-
-`Python` `Flask` `MySQL`
+https://github.com/sumitsaxena2716-sys/Edupredict-AI
 
 ---
 
-📌 **[Library Management System](https://github.com/sumitsaxena2716-sys/Library-Management-System)**
-Library record management system.
-- Book Management
-- Issue & Return
-- Student Records
-- Search System
+# 📊 GitHub Analytics
 
-`Python` `MySQL`
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=github_dark&hide_border=true"/>
 
-📌 **[Music Playlist Manager](https://github.com/sumitsaxena2716-sys/Music-PlayList-Manager-By-Singly-Linked-List)**
-Playlist management using Singly Linked List.
-- Add Songs
-- Delete Songs
-- Traverse Playlist
-- Data Structure Implementation
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=github_dark&hide_border=true"/>
 
-`Python` `Data Structures`
+</p>
 
----
+<p align="center">
 
-### 📈 GitHub Analytics
+<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=github-dark&hide_border=true"/>
 
+</p>
 
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=github_dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=github-compact&hide_border=true"/>
 
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxena2716-sys&theme=github-dark)
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=github_dark)
-
-
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=github-compact)
-
-
+</p>
 
 ---
 
-### 🎯 2026 Goals
+# 🎯 Currently Working On
 
-- 🎯 Master AWS Fundamentals
-- 🎯 Earn AWS Solutions Architect – Associate Certification
-- 🎯 Build Production-Level AWS Projects
-- 🎯 Learn Docker & Terraform
-- 🎯 Contribute to Open Source
-- 🎯 Secure an Internship / Cloud Role
-
----
-
-### 📚 Current Focus
-
-`AWS` `Cloud Security` `Python` `Flask` `Linux` `Networking` `AI & Machine Learning`
+- ☁️ AWS Cloud
+- 🔐 Cloud Security
+- 🐍 Python
+- ⚙️ Flask Development
+- 🐧 Linux
+- 🌐 Networking
+- 🤖 AI & Machine Learning
 
 ---
 
-*"Learning. Building. Securing the Cloud."*
+# 🎯 2026 Goals
+
+- ✅ Master AWS Fundamentals
+- ✅ Complete AWS Solutions Architect – Associate
+- ✅ Build Production-Level AWS Projects
+- ✅ Learn Docker
+- ✅ Learn Terraform
+- ✅ Contribute to Open Source
+- ✅ Secure a Cloud Internship
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build amazing things together.
+# 📈 GitHub Profile Summary
+
+- ☁️ AWS Learner
+- 🔐 Cloud Security Enthusiast
+- 🐍 Python Developer
+- 💻 Open Source Learner
+- 🚀 Building Real-World Projects
+
+---
+
+# 💬 Favorite Quote
+
+> **"Learning today. Building tomorrow. Securing the future."**
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Let's connect and build secure cloud solutions together.
+
+</p>
+```
