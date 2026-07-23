@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sumit Saxena</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer+in+Progress;AWS+%7C+Python+Developer;Building+Secure+Cloud+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer+in+Progress;AWS+%7C+Python+Developer;Building+Secure+Cloud+Solutions"/>
 </p>
 
 <h3 align="center">
@@ -49,8 +49,7 @@ I am a <b>BCA (AI & Data Science)</b> student passionate about <b>Cloud Computin
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux" />
-
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux&theme=dark"/>
 </p>
 
 ---
@@ -122,6 +121,25 @@ https://github.com/sumitsaxena2716-sys/Edupredict-AI
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
 
 </p>
+
+---
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumit-saxena-54566b310">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sumitsaxena2716@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
 
 ---
 
