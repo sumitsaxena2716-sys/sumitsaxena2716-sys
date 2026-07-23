@@ -1,5 +1,4 @@
-# Hi 👋, I'm Sumit Saxena
-
+<h1 align="center">👋 Hi, I'm <span style="color:#39FF14;">Sumit Saxena</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Cloud+Security+Engineer+in+Progress;AWS+%7C+Python+Developer;Building+Secure+Cloud+Solutions" alt="Typing SVG" />
 </p>
