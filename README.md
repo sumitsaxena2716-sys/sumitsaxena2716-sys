@@ -105,9 +105,7 @@ https://github.com/sumitsaxena2716-sys/Edupredict-AI
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
 
 </p>
 
