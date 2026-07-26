@@ -97,8 +97,7 @@ Machine Learning application for predicting student academic performance.
 
 🔗 Repository
 
-https://github.com/sumitsaxena2716-sys/Edupredict-AI
-
+🔗 **Repository:** [EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
 ---
 
 # 📊 GitHub Analytics
