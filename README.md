@@ -110,7 +110,7 @@ Machine Learning application for predicting student academic performance.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true?cache_bust=1" />
+<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true&cache_bust=20260728"/>
 
 </p>
 
