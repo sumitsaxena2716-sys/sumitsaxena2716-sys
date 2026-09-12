@@ -197,18 +197,26 @@ QR-based attendance management system with teacher authentication, approval cont
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true&langs_count=6"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsaxena2716-sys&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&theme=merko&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
