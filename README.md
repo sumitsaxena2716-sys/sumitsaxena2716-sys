@@ -31,7 +31,7 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 - 🔐 Passionate about Secure Cloud Infrastructure
 - 🐍 Python Developer
 - 🌱 Currently learning IAM, EC2, S3, VPC, Linux & Networking
-- 💡 I enjoy solving real-world problems through Cloud and Python projects.
+- 💡 I enjoy solving real-world problems through Cloud and Python projects
 - 🎯 Goal: **Cloud Security Engineer → Cloud Security Architect**
 
 ---
@@ -43,7 +43,16 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 | AWS Technical Essentials | AWS |
 | AWS Command Line Interface (CLI) Basics | AWS |
 | AWS CodePipeline: Getting Started | AWS |
+| Introduction to Generative AI | Google Cloud |
 | Fundamentals of Machine Learning & AI | Great Learning |
+| CS107: C++ Programming | Saylor Academy |
+
+---
+
+# 🏆 Achievements & Participation
+
+- 🚀 Participated in **SIH Internal Hackathon** — Graphic Era Hill University (Tech Geeks Club)
+- 🧠 Participated in **Engineer X 3.0 Tech Quiz** — Graphic Era Hill University (Tech Geeks Club)
 
 ---
 
@@ -57,25 +66,59 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 
 # 🚀 Featured Projects
 
+## 🔨 AttendAI *(Currently Building)*
+
+Next-gen AI-powered attendance system — actively in development.
+
+### Features (In Progress)
+
+- 🚧 AI-based face & pattern recognition for attendance
+- 🚧 Real-time attendance analytics dashboard
+- 🚧 Smart anti-proxy detection
+
+**Tech Stack**
+
+`Python` `AI/ML` `Flask`
+
+🔗 Repository: [AttendAI](https://github.com/sumitsaxena2716-sys/AttendAI)
+
+---
+
 ## 🌟 Smart Attendance System using Face Recognition
 
 AI-powered attendance system that automates attendance using Face Recognition.
 
 ### Features
 
-- ✅ Face Recognition
-- ✅ Attendance Dashboard
-- ✅ Excel Report Generation
-- ✅ Proxy Attendance Prevention
-- ✅ Flask Web Application
+- ✔️ Face Recognition
+- ✔️ Attendance Dashboard
+- ✔️ Excel Report Generation
+- ✔️ Proxy Attendance Prevention
+- ✔️ Flask Web Application
 
 **Tech Stack**
 
 `Python` `Flask` `OpenCV` `Pandas`
 
-🔗 Repository
+🔗 Repository: [smart-attendance-system-face-recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)
 
-https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition
+---
+
+## 🌟 AI Knowledge Retention Predictor
+
+ML-based system that predicts how well a student retains learned concepts over time.
+
+### Features
+
+- ✔️ Knowledge Retention Prediction
+- ✔️ Data-Driven Insights
+- ✔️ Visualization Dashboard
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Pandas` `Scikit-learn`
+
+🔗 Repository: [AI-Knowledge-Retention-Predictor](https://github.com/sumitsaxena2716-sys/AI-Knowledge-Retention-Predictor)
 
 ---
 
@@ -85,45 +128,58 @@ Machine Learning application for predicting student academic performance.
 
 ### Features
 
-- ✅ Student Performance Prediction
-- ✅ Data Analysis
-- ✅ Data Visualization
-- ✅ Recommendation System
-- ✅ Flask Dashboard
+- ✔️ Student Performance Prediction
+- ✔️ Data Analysis
+- ✔️ Data Visualization
+- ✔️ Recommendation System
+- ✔️ Flask Dashboard
 
 **Tech Stack**
 
 `Python` `Pandas` `Scikit-learn` `Flask`
 
-🔗 Repository
+🔗 Repository: [EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
 
-🔗 **Repository:** [EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
+---
+
+## 🌟 QR Code Attendance System
+
+Secure QR-based attendance system with automated Excel reporting and teacher approval override.
+
+### Features
+
+- ✔️ QR Code Attendance
+- ✔️ Attendance Dashboard
+- ✔️ Teacher Authentication
+- ✔️ Excel Reports
+
+**Tech Stack**
+
+`Python` `Flask` `MySQL`
+
+🔗 Repository: [QR-Code-Attendance-System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true&cache_bust=1" />
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
-
 </p>
 
 ---
 
 # 🎯 Currently Working On
 
+- 🔨 Building **AttendAI** — an AI-powered attendance system
 - ☁️ AWS Cloud
 - 🔐 Cloud Security
 - 🐍 Python Development
@@ -136,13 +192,13 @@ Machine Learning application for predicting student academic performance.
 
 # 🎯 2026 Goals
 
-- ✅ Master AWS Fundamentals
-- ✅ Earn AWS Certified Solutions Architect – Associate
-- ✅ Build Production-Level AWS Projects
-- ✅ Learn Docker
-- ✅ Learn Terraform
-- ✅ Contribute to Open Source
-- ✅ Secure a Cloud Internship
+- 🎯 Master AWS Fundamentals
+- 🎯 Earn AWS Certified Solutions Architect – Associate
+- 🎯 Build Production-Level AWS Projects
+- 🎯 Learn Docker
+- 🎯 Learn Terraform
+- 🎯 Contribute to Open Source
+- 🎯 Secure a Cloud Internship
 
 ---
 
