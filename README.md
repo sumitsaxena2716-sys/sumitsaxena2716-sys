@@ -5,41 +5,45 @@
 </p>
 
 <h3 align="center">
-Cloud Security • AWS • Python • Flask • AI & Data Science
+☁️ Cloud Security • AWS • Python • Flask • AI & Data Science
 </h3>
 
 <p align="center">
-I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate about <b>Cloud Computing, AWS, Cloud Security, and Python Development</b>. I enjoy solving real-world problems through Cloud and Python projects and aspire to become a <b>Cloud Security Engineer</b>.
+BCA student specializing in <b>Artificial Intelligence & Data Science</b>, with a growing focus on
+<b>AWS, Cloud Computing, Cloud Security, and Python Development</b>.
+I build practical projects to strengthen my understanding of secure cloud infrastructure,
+automation, and real-world software solutions.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sumit-saxena-54566b310">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:sumitsaxena2716@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sumit-saxena-54566b310">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sumitsaxena2716@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 BCA (Artificial Intelligence & Data Science)
-- ☁️ Learning AWS Cloud & Cloud Security
-- 🔐 Passionate about Secure Cloud Infrastructure
-- 🐍 Python Developer
-- 🌱 Currently learning IAM, EC2, S3, VPC, Linux & Networking
-- 💡 I enjoy solving real-world problems through Cloud and Python projects
-- 🎯 Goal: **Cloud Security Engineer → Cloud Security Architect**
+- 🎓 BCA — Artificial Intelligence & Data Science
+- ☁️ Learning **AWS Cloud & Cloud Security**
+- 🔐 Exploring **IAM, VPC, EC2, S3, Linux & Networking**
+- 🐍 Developing applications with **Python & Flask**
+- 🤖 Building projects using **AI/ML and Data Science**
+- 💻 Interested in **secure cloud infrastructure and automation**
+- 🌱 Building and documenting my AWS learning journey
+- 🎯 Career Goal: **Cloud Security Engineer → Cloud Security Architect**
 
 ---
 
-# 🏅 Certifications
+# 🏅 Certifications & Learning
 
-| Certification | Provider |
-|---------------|----------|
+| Certification / Course | Provider |
+|---|---|
 | AWS Technical Essentials | AWS |
 | AWS Command Line Interface (CLI) Basics | AWS |
 | AWS CodePipeline: Getting Started | AWS |
@@ -51,46 +55,74 @@ I am a <b>BCA (Artificial Intelligence & Data Science)</b> student passionate ab
 
 # 🏆 Achievements & Participation
 
-- 🚀 Participated in **SIH Internal Hackathon** — Graphic Era Hill University (Tech Geeks Club)
-- 🧠 Participated in **Engineer X 3.0 Tech Quiz** — Graphic Era Hill University (Tech Geeks Club)
+- 🚀 **SIH Internal Hackathon** — Graphic Era Hill University, Tech Geeks Club
+- 🧠 **Engineer X 3.0 Tech Quiz** — Graphic Era Hill University, Tech Geeks Club
 
 ---
 
 # 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask,mysql,git,github,vscode,aws,linux" />
+### ☁️ Cloud & Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
 </p>
+
+**AWS Services:** `IAM` `EC2` `S3` `VPC` `AWS CLI`
+
+**Security Concepts:** `Identity & Access Management` `Least Privilege` `Access Control` `Network Security`
+
+**Learning Next:** `CloudTrail` `CloudWatch` `GuardDuty` `Docker` `Terraform`
+
+### 🐍 Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,flask" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+### 🤖 AI & Data Science
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `OpenCV` `Machine Learning` `Matplotlib`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔨 AttendAI *(Currently Building)*
+## 🔨 AttendAI — AI-Powered Attendance System
 
-Next-gen AI-powered attendance system — actively in development.
+**🚧 Currently Building**
 
-### Features (In Progress)
+Next-generation attendance system focused on intelligent attendance tracking and analytics.
 
-- 🚧 AI-based face & pattern recognition for attendance
-- 🚧 Real-time attendance analytics dashboard
+### Features in Development
+
+- 🚧 AI-based face & pattern recognition
+- 🚧 Real-time attendance analytics
 - 🚧 Smart anti-proxy detection
+- 🚧 Automated attendance management
 
 **Tech Stack**
 
 `Python` `AI/ML` `Flask`
 
-🔗 Repository: [AttendAI](https://github.com/sumitsaxena2716-sys/AttendAI)
+🔗 [Repository](https://github.com/sumitsaxena2716-sys/AttendAI)
 
 ---
 
-## 🌟 Smart Attendance System using Face Recognition
+## 🌟 Smart Attendance System — Face Recognition
 
-AI-powered attendance system that automates attendance using Face Recognition.
+AI-powered attendance application that automates attendance using facial recognition.
 
 ### Features
 
 - ✔️ Face Recognition
+- ✔️ Automated Attendance
 - ✔️ Attendance Dashboard
 - ✔️ Excel Report Generation
 - ✔️ Proxy Attendance Prevention
@@ -100,31 +132,32 @@ AI-powered attendance system that automates attendance using Face Recognition.
 
 `Python` `Flask` `OpenCV` `Pandas`
 
-🔗 Repository: [smart-attendance-system-face-recognition](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)
+🔗 [Repository](https://github.com/sumitsaxena2716-sys/smart-attendance-system-face-recognition)
 
 ---
 
 ## 🌟 AI Knowledge Retention Predictor
 
-ML-based system that predicts how well a student retains learned concepts over time.
+Machine Learning system designed to predict how effectively students retain learned concepts over time.
 
 ### Features
 
 - ✔️ Knowledge Retention Prediction
 - ✔️ Data-Driven Insights
+- ✔️ Data Analysis
 - ✔️ Visualization Dashboard
 
 **Tech Stack**
 
-`Python` `Machine Learning` `Pandas` `Scikit-learn`
+`Python` `Machine Learning` `Pandas` `Scikit-learn` `Matplotlib`
 
-🔗 Repository: [AI-Knowledge-Retention-Predictor](https://github.com/sumitsaxena2716-sys/AI-Knowledge-Retention-Predictor)
+🔗 [Repository](https://github.com/sumitsaxena2716-sys/AI-Knowledge-Retention-Predictor)
 
 ---
 
 ## 🌟 EduPredict AI
 
-Machine Learning application for predicting student academic performance.
+Machine Learning application for predicting student academic performance and generating data-driven insights.
 
 ### Features
 
@@ -136,79 +169,75 @@ Machine Learning application for predicting student academic performance.
 
 **Tech Stack**
 
-`Python` `Pandas` `Scikit-learn` `Flask`
+`Python` `Pandas` `Scikit-learn` `Flask` `Matplotlib`
 
-🔗 Repository: [EduPredict AI](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
+🔗 [Repository](https://github.com/sumitsaxena2716-sys/Edupredict-AI)
 
 ---
 
 ## 🌟 QR Code Attendance System
 
-Secure QR-based attendance system with automated Excel reporting and teacher approval override.
+QR-based attendance management system with teacher authentication, approval controls, and automated reporting.
 
 ### Features
 
 - ✔️ QR Code Attendance
-- ✔️ Attendance Dashboard
 - ✔️ Teacher Authentication
+- ✔️ Attendance Dashboard
 - ✔️ Excel Reports
+- ✔️ Approval Override
 
 **Tech Stack**
 
 `Python` `Flask` `MySQL`
 
-🔗 Repository: [QR-Code-Attendance-System](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)
+🔗 [Repository](https://github.com/sumitsaxena2716-sys/QR-Code-Attendance-System)
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitsaxena2716-sys&layout=compact&theme=merko&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true&cache_bust=1" />
+  <img src="https://streak-stats.demolab.com?user=sumitsaxena2716-sys&theme=chartreuse-dark&hide_border=true&cache_bust=1"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaxena2716-sys&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Currently Working On
 
-- 🔨 Building **AttendAI** — an AI-powered attendance system
-- ☁️ AWS Cloud
-- 🔐 Cloud Security
-- 🐍 Python Development
-- ⚙️ Flask
-- 🐧 Linux
-- 🌐 Networking
-- 🤖 AI & Machine Learning
+- 🔨 **AttendAI** — AI-powered attendance system
+- ☁️ AWS Cloud fundamentals
+- 🔐 Cloud Security fundamentals
+- 🐧 Linux & Networking
+- 🐍 Python development
+- 📚 Documenting AWS learning and hands-on practice
 
 ---
 
 # 🎯 2026 Goals
 
-- 🎯 Master AWS Fundamentals
-- 🎯 Earn AWS Certified Solutions Architect – Associate
-- 🎯 Build Production-Level AWS Projects
-- 🎯 Learn Docker
-- 🎯 Learn Terraform
-- 🎯 Contribute to Open Source
-- 🎯 Secure a Cloud Internship
+- 🎯 Earn **AWS Certified Solutions Architect – Associate**
+- ☁️ Build production-oriented AWS projects
+- 🔐 Strengthen Cloud Security fundamentals
+- 🛡️ Build AWS security monitoring projects
+- 🐳 Learn Docker
+- ⚙️ Learn Terraform & Infrastructure as Code
+- 🌐 Contribute to Open Source
+- 💼 Secure a Cloud / Cloud Security Internship
 
 ---
 
-# 📈 GitHub Profile Summary
+# 💡 What I'm Building Toward
 
-- ☁️ AWS Learner
-- 🔐 Cloud Security Enthusiast
-- 🐍 Python Developer
-- 💻 Open Source Learner
-- 🚀 Building Real-World Projects
+BCA — AI & Data Science → Python + AI/ML + Development → AWS Cloud Fundamentals → Cloud Security → Hands-on AWS Security Projects → Cloud Security Engineer → Cloud Security Architect
 
 ---
 
